@@ -1,1 +1,1 @@
-# VFX_HDR
+# VFX_Image_Stitching
